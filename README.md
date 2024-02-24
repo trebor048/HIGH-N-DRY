@@ -1,8 +1,8 @@
-# Satan 2 Discord Bot
+# Satan 2 Discord Bot [but its not satan]
 
 ---
 
-## Welcome to the Satan 2 Discord Bot repository! 
+## Welcome to the Satan 2 Discord Bot repository! [but its still not satan]
 
 🔗 **[Discord Developer Portal](https://discordapp.com/developers/applications/me)**
 
