@@ -1,4 +1,4 @@
-# Satan 2 Discord Bot
+# Satan 2 Discord Bot [but its not really satan ok calm down]
 
 ---
 
