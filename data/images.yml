@@ -1,0 +1,39 @@
+# DO NOT CHANGE
+version: 4
+coins:
+  heads:
+    - https://cdn.nadeko.bot/coins/heads3.png
+  tails:
+    - https://cdn.nadeko.bot/coins/tails3.png
+currency:
+  - https://cdn.discordapp.com/attachments/1085025675133604000/1181585281418268764/currency_image.png
+  - https://cdn.discordapp.com/attachments/1085025675133604000/1181585281418268764/currency_image.png
+  - https://cdn.discordapp.com/attachments/1085025675133604000/1181585281418268764/currency_image.png
+dice:
+  - https://cdn.nadeko.bot/other/dice/0.png
+  - https://cdn.nadeko.bot/other/dice/1.png
+  - https://cdn.nadeko.bot/other/dice/2.png
+  - https://cdn.nadeko.bot/other/dice/3.png
+  - https://cdn.nadeko.bot/other/dice/4.png
+  - https://cdn.nadeko.bot/other/dice/5.png
+  - https://cdn.nadeko.bot/other/dice/6.png
+  - https://cdn.nadeko.bot/other/dice/7.png
+  - https://cdn.nadeko.bot/other/dice/8.png
+  - https://cdn.nadeko.bot/other/dice/9.png
+rategirl:
+  matrix: https://cdn.nadeko.bot/other/rategirl/matrix.png
+  dot: https://cdn.nadeko.bot/other/rategirl/dot.png
+xp:
+  bg: https://cdn.discordapp.com/attachments/1085025675133604000/1181584853754466436/banner.jpg
+rip:
+  bg: https://cdn.nadeko.bot/other/rip/rip.png
+  overlay: https://cdn.nadeko.bot/other/rip/overlay.png
+slots:
+  emojis:
+    - https://cdn.discordapp.com/attachments/1179224186892341320/1190531511317954570/6.png
+    - https://cdn.discordapp.com/attachments/1179224186892341320/1190531511531872327/5.png
+    - https://cdn.discordapp.com/attachments/1179224186892341320/1190531511829659670/4.png
+    - https://cdn.discordapp.com/attachments/1179224186892341320/1190531512047779880/3.png
+    - https://cdn.discordapp.com/attachments/1179224186892341320/1190531512278458489/2.png
+    - https://cdn.discordapp.com/attachments/1179224186892341320/1190531512546885743/0.png
+  bg: https://media.discordapp.net/attachments/1179224186892341320/1195848143418429451/1000048919.jpg
